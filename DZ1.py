@@ -2,6 +2,9 @@ import random
 
 
 class CounterD:
+	"""
+	Class
+	"""
     def __init__(self, num, drange: range):
         self.num = num
         self.drange = drange
